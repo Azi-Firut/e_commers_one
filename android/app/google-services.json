@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467870645488",
+    "project_id": "e-commers-one",
+    "storage_bucket": "e-commers-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467870645488:android:f1f2b84621f05b6e821635",
+        "android_client_info": {
+          "package_name": "one.commers.e_commers_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467870645488-q4clc8krelnh66d7ddqop0a99trht58c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw89Daln-fD7Vy1Qko-xwlWdxGuke8EV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467870645488-q4clc8krelnh66d7ddqop0a99trht58c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
